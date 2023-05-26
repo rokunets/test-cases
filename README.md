@@ -1,3 +1,13 @@
 # test-cases
-Examples of test-cases in different TMS's.
-During the studying, more than 100 test-cases were written.
+Примеры написанных баг-репортов в разных ТМС. За время обучения было написано более 100 баг-реортов.
+
+Примеры выполненых заданий при прохождении обучения.
+
+Задание 1.
+Составить тест-кейсы на функциональность Add Customer (https://demo.guru99.com/telecom/index.html) - Файл Qase Web Guru99.
+
+Задание 2.
+Составить тест-кейсы на функциональность корзины и модуля оплаты (http://demowebshop.tricentis.com/) - Файл Test IT TMS web.
+
+Задание 3.
+Для одного любого модуля (лучше взять модуль на создание таски) составить тест-кейсы на функциональность мобильного приложения TO-DO-MVP - Файл Qase Mobile TO-DO-MVP.
